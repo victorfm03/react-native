@@ -41,7 +41,7 @@ export default function RootLayout() {
         <Tabs.Screen
           name="index"
           options={{
-            title: 'Inicio',
+            title: 'Movie Director',
             tabBarIcon: ({ color }) => (
               <MaterialCommunityIcons name="home" size={28} color={color} />
             ),
